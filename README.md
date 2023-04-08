@@ -1,2 +1,2 @@
 # machineLearningFundamental
-somethings I've learned about Machine Learn and Deep Learning.
+Somethings I've learned about Machine Learn and Deep Learning.
